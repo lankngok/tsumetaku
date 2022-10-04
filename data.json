@@ -1,0 +1,45 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "abc",
+            "price": 100,
+            "color": [
+                {"id": 1, "name": "Red"},
+                {}
+            ],
+            "size": [
+                {"id": 20},
+                {}
+            ],
+            "sku": 1,
+            "img":"https://product.hstatic.net/200000174405/product/dc3728-300-1_f4cd577906334a43bbcece14d5d80e50_master.jpg",
+            "detailImg": [
+                {"id": 1, "img":"https://product.hstatic.net/200000174405/product/dc3728-300-1_f4cd577906334a43bbcece14d5d80e50_master.jpg"},
+                {}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "iầy running Nike Revolution 6 Next Nature nam DC3728-300",
+            "price": 100,
+            "color": [
+                {"id": 1, "name": "Red"},
+                {}
+            ],
+            "size": [
+                {"id": 20},
+                {}
+            ],
+            "sku": 1,
+            "img":"https://product.hstatic.net/200000174405/product/dc3728-300-1_f4cd577906334a43bbcece14d5d80e50_master.jpg",
+            "detailImg": [
+                {"id": 1, "img":"https://product.hstatic.net/200000174405/product/dc3728-300-1_f4cd577906334a43bbcece14d5d80e50_master.jpg"},
+                {}
+            ]
+        }
+    ],
+    "category": [
+        {"id": 1, "name":"acb" }
+    ]
+}
